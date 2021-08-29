@@ -15,12 +15,22 @@
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>IN</string>
+        </entry>
+      </elementAttributes>
       <pos x="320" y="300"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>OUT</string>
+        </entry>
+      </elementAttributes>
       <pos x="740" y="300"/>
     </visualElement>
   </visualElements>
