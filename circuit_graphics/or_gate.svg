@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Mon Aug 30 22:51:09 MST 2021 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="131.85mm"
+   height="36.6mm"
+   viewBox="80 128 879 244">
+<g stroke-linecap="square">
+<path d="M 180,160 L 240,160 L 240,140 L 300,140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 400,160 L 500,160 L 500,220 L 580,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 680,240 L 860,240" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 240,160 L 240,180 L 300,180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 180,340 L 240,340 L 240,320 L 300,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 400,340 L 500,340 L 500,260 L 580,260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 240,340 L 240,360 L 300,360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<g>
+<circle cx="240.0" cy="160.0" r="4.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="240.0" cy="340.0" r="4.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 149,145 L 179,145 L 179,175 L 149,175 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="164.0" cy="160.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="135.0" y="169.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">IN A</tspan></text>
+<circle cx="180.0" cy="160.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 149,325 L 179,325 L 179,355 L 149,355 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="164.0" cy="340.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="135.0" y="349.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">IN B</tspan></text>
+<circle cx="180.0" cy="340.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 350,190 L 301,190 L 301,130 L 350,130 C 360,130 380,140 379,160 C 379,180 360,190 350,190 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="390.0" cy="160.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="300.0" cy="140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="300.0" cy="180.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="400.0" cy="160.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 350,370 L 301,370 L 301,310 L 350,310 C 360,310 380,320 379,340 C 379,360 360,370 350,370 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="390.0" cy="340.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="300.0" cy="320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="300.0" cy="360.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="400.0" cy="340.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 630,270 L 581,270 L 581,210 L 630,210 C 640,210 660,220 659,240 C 659,260 640,270 630,270 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="670.0" cy="240.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="580.0" cy="220.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="580.0" cy="260.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="680.0" cy="240.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<circle cx="876.0" cy="240.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="876.0" cy="240.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="start" x="905.0" y="249.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">OUT</tspan></text>
+<circle cx="860.0" cy="240.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+</g>
+</svg>
