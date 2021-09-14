@@ -5,17 +5,8 @@
   <visualElements>
     <visualElement>
       <elementName>Clock</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>Clock</string>
-        </entry>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="1"/>
-        </entry>
-      </elementAttributes>
-      <pos x="720" y="340"/>
+      <elementAttributes/>
+      <pos x="720" y="320"/>
     </visualElement>
     <visualElement>
       <elementName>D_FF</elementName>
@@ -26,12 +17,12 @@
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
-          <string>rotation</string>
-          <rotation rotation="1"/>
-        </entry>
-        <entry>
           <string>Label</string>
           <string>LOAD</string>
+        </entry>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
         </entry>
       </elementAttributes>
       <pos x="640" y="360"/>
@@ -94,10 +85,6 @@
     <wire>
       <p1 x="640" y="320"/>
       <p2 x="640" y="360"/>
-    </wire>
-    <wire>
-      <p1 x="720" y="320"/>
-      <p2 x="720" y="340"/>
     </wire>
     <wire>
       <p1 x="900" y="240"/>
