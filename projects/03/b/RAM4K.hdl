@@ -16,4 +16,14 @@ CHIP RAM4K {
 
     PARTS:
     // Put your code here:
+    DMux8Way(in=load, sel=address[0..2], a=dMuxA, b=dMuxB, c=dMuxC, d=dMuxD, e=dMuxE, f=dMuxF, g=dMuxG, h=dMuxH);
+    RAM512(in=in, load=dMuxA, address=address[3..11], out=memoryA);
+    RAM512(in=in, load=dMuxB, address=address[3..11], out=memoryB);
+    RAM512(in=in, load=dMuxC, address=address[3..11], out=memoryC);
+    RAM512(in=in, load=dMuxD, address=address[3..11], out=memoryD);
+    RAM512(in=in, load=dMuxE, address=address[3..11], out=memoryE);
+    RAM512(in=in, load=dMuxF, address=address[3..11], out=memoryF);
+    RAM512(in=in, load=dMuxG, address=address[3..11], out=memoryG);
+    RAM512(in=in, load=dMuxH, address=address[3..11], out=memoryH);
+    Mux8Way16(a=memoryA, b=memoryB, c=memoryC, d=memoryD, e=memoryE, f=memoryF, g=memoryG, h=memoryH, sel=address[0..2], out=out);
 }
